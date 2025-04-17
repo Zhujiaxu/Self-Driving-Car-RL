@@ -1,5 +1,5 @@
 # AI for Self Driving Car
-#到此一游12345
+#到此一游12345，什么也不懂
 # Importing the libraries
 import numpy as np
 import random
